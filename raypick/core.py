@@ -20,16 +20,6 @@ class Triangle:
     c: tuple
 
 
-def Ray:
-    """class"""
-    raise NotImplementedError("Ray 尚未实现")
-
-
-def Triangle:
-    """class"""
-    raise NotImplementedError("Triangle 尚未实现")
-
-
 def intersect(ray, tri):
     """单次求交"""
     raise NotImplementedError("intersect 尚未实现")
