@@ -1,0 +1,39 @@
+{
+  "hits": [
+    {
+      "ray": 0,
+      "tri": 0,
+      "t": 5.0,
+      "point": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "ray": 1,
+      "tri": null,
+      "t": null
+    }
+  ],
+  "stats": {
+    "rays": 2,
+    "triangles": 1,
+    "valid_rays": 2,
+    "zero_direction_rays": 0,
+    "degenerate_triangles": 0,
+    "hits": 1,
+    "intersection_tests": 1,
+    "naive_tests": 2,
+    "speedup": 2.0,
+    "tests_per_ray": 0.5,
+    "distance_distribution": {
+      "buckets": {
+        "1e0": 1
+      },
+      "min": 5.0,
+      "max": 5.0,
+      "mean": 5.0
+    }
+  }
+}
