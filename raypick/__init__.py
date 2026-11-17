@@ -1,1 +1,1 @@
-"""批量射线拾取"""
+from .core import *  # noqa: F401,F403
